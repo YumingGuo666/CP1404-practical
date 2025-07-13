@@ -27,4 +27,4 @@ I’m a student of CP1404 with a strong interest in programming. I'm currently w
 
 ---
 
-Thanks for visiting my project! Feel free to explore and reach out with feedback 🙌
+Thanks for visiting my project! Feel free to explore and reach out with feedback 
